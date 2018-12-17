@@ -17,5 +17,3 @@ For officially recommended and supported options refer to [System Requirements](
  For information on connecting to ownServer refer to: 
 - For a **Desktop client** - [ownCloud Desktop Client Manual](https://doc.owncloud.com/desktop/2.5/). 
 - For mobile devices (Android and iOS) - https://doc.owncloud.org/server/index.html. 
-
-[I'm an inline-style link](https://www.google.com)

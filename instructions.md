@@ -1,8 +1,5 @@
 ---
-layout: default
----
-<!DOCTYPE md>
-<md>	
+layout: default	
 
 <p>
  Before you download and install ownServer we recommend you refer to [Deployment Recommendations] https://doc.owncloud.org/server/10.0/admin_manual/installation/deployment_recommendations.html#general-recommendations to see which scenario best suits your needs. 

@@ -10,7 +10,7 @@ For officially recommended and supported options refer to [System Requirements](
  4. To further configure ownCloud refer to [Administer the appliance](https://doc.owncloud.org/server/10.0/admin_manual/appliance/installation.html#appliance-administer-label). 
  
   
- If you want to add new user accounts refer to *Create new users* in [User Management](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html). 
+ **Note**: If you want to add new user accounts refer to *Create new users* in [User Management](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html). 
 
  For information on connecting to ownServer refer to: 
 - For a **Desktop client** - [ownCloud Desktop Client Manual](https://doc.owncloud.com/desktop/2.5/). 

@@ -8,4 +8,4 @@ The Quick Start Guide is to address the following use cases for an administrator
 * Install and configure an ownServer server. 
 * Enable connection to an ownServer server using the server's IP address and port 8080.
 * How to add a user account. 
-* How to connect to an ownServer server using a desktop or mobile client. 
+* How to connect to ownServer using a desktop or mobile client. 

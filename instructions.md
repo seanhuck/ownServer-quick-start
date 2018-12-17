@@ -5,6 +5,7 @@ title: installing and configuring ownServer
 
 <p>
  Before you download and install ownServer we recommend you refer to [Deployment Recommendations] https://doc.owncloud.org/server/10.0/admin_manual/installation/deployment_recommendations.html#general-recommendations to see which scenario best suits your needs. 
+[JekyllBootstrap](https://jekyllbootstrap.com/)
  </p>	
  <p>
   For officially recommended and supported options refer to [System Requirements] [https://doc.owncloud.org/server/10.0/admin_manual/installation/system_requirements.html#officially-recommended-supported-options].

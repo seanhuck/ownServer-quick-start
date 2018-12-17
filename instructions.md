@@ -1,7 +1,11 @@
-<html>
-<body
+---
+layout: default
+---
+<!DOCTYPE md>
+<md>	
+
 <p>
- Before you download and install ownServer, we recommend you refer to [Deployment Recommendation] [https://doc.owncloud.org/server/10.0/admin_manual/installation/deployment_recommendations.html#general-recommendation] to see which scenario best suits your needs. 
+ Before you download and install ownServer we recommend you refer to [Deployment Recommendations] https://doc.owncloud.org/server/10.0/admin_manual/installation/deployment_recommendations.html#general-recommendations to see which scenario best suits your needs. 
  </p>	
  <p>
   For officially recommended and supported options refer to [System Requirements] [https://doc.owncloud.org/server/10.0/admin_manual/installation/system_requirements.html#officially-recommended-supported-options].
@@ -21,5 +25,3 @@
 - For a **Desktop client** - [ownCloud Desktop Client Manual] [https://doc.owncloud.com/desktop/2.5/]. 
 - For mobile devices (Android and iOS) - [https://doc.owncloud.org/server/index.html]. 
 </p>
-</body>
-<hmtl>
